@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Jose Carlos Barrales Quirino</Authors>
+    <Description>Provides basic functionality to write custom events and logs for OpenTracing using System.Diagnostics</Description>
+    <PackageProjectUrl>https://github.com/JoseBarrales/OpenTracing.DiagnosticTracer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/JoseBarrales/OpenTracing.DiagnosticTracer</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Provides basic functionality to write custom events and logs for OpenTracing using System.Diagnostics</PackageReleaseNotes>
+    <PackageTags>OpenTracing Tracing Diagnostics Listener</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="4.6.0" />
+  </ItemGroup>
+
+</Project>

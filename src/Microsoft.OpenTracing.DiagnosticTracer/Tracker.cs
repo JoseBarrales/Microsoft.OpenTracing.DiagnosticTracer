@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace Microsoft.OpenTracing.DiagnosticTracer
+namespace OpenTracing.DiagnosticTracer
 {
     /// <summary>
     /// Provides basic functionality to write custom events and logs for OpenTracing using System.Diagnostics
