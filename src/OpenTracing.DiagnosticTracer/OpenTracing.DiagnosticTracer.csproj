@@ -10,6 +10,8 @@
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Provides basic functionality to write custom events and logs for OpenTracing using System.Diagnostics</PackageReleaseNotes>
     <PackageTags>OpenTracing Tracing Diagnostics Listener</PackageTags>
+    <PackageIconUrl>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/assets/opentracing.png</PackageIconUrl>
+    <PackageLicense>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/LICENSE</PackageLicense>
   </PropertyGroup>
 
   <ItemGroup>
