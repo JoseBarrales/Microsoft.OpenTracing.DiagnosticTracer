@@ -12,10 +12,18 @@
     <PackageTags>OpenTracing Tracing Diagnostics Listener</PackageTags>
     <PackageIconUrl>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/assets/opentracing.png</PackageIconUrl>
     <PackageLicense>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/LICENSE</PackageLicense>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
