@@ -13,6 +13,7 @@
     <PackageIconUrl>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/assets/opentracing.png</PackageIconUrl>
     <PackageLicense>https://raw.githubusercontent.com/JoseBarrales/OpenTracing.DiagnosticTracer/master/LICENSE</PackageLicense>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Copyright>Jose Carlos Barrales Quirino</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
