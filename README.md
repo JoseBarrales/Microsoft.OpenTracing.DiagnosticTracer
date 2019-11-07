@@ -1,3 +1,7 @@
+Channel  | Status | 
+-------- | :------------: | 
+OpenTracing.DiagnosticTracer | [![Nuget](https://img.shields.io/nuget/v/OpenTracing.DiagnosticTracer)](https://www.nuget.org/packages/OpenTracing.DiagnosticTracer/)
+
 # Uso
  ``` csharp
 using static OpenTracing.DiagnosticTracer.Tracker;
